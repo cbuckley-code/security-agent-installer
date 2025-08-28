@@ -1,1 +1,5 @@
-/GCP/accounts/*
+/GCP/.service_accounts/*
+GCP/examples/agents-artifacts-mgmt/.terraform/*
+GCP/examples/agents-artifacts-mgmt/.terraform.lock.hcl
+GCP/examples/dev-mtcdo-lab/.terraform/*
+GCP/examples/dev-mtcdo-lab/.terraform.lock.hcl
